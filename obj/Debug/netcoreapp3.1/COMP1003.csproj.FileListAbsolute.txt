@@ -1,0 +1,14 @@
+C:\Users\lewis\OneDrive - University of Plymouth\COMP1003 Code\COMP1003\bin\Debug\netcoreapp3.1\COMP1003.exe
+C:\Users\lewis\OneDrive - University of Plymouth\COMP1003 Code\COMP1003\bin\Debug\netcoreapp3.1\COMP1003.deps.json
+C:\Users\lewis\OneDrive - University of Plymouth\COMP1003 Code\COMP1003\bin\Debug\netcoreapp3.1\COMP1003.runtimeconfig.json
+C:\Users\lewis\OneDrive - University of Plymouth\COMP1003 Code\COMP1003\bin\Debug\netcoreapp3.1\COMP1003.runtimeconfig.dev.json
+C:\Users\lewis\OneDrive - University of Plymouth\COMP1003 Code\COMP1003\bin\Debug\netcoreapp3.1\COMP1003.dll
+C:\Users\lewis\OneDrive - University of Plymouth\COMP1003 Code\COMP1003\bin\Debug\netcoreapp3.1\COMP1003.pdb
+C:\Users\lewis\OneDrive - University of Plymouth\COMP1003 Code\COMP1003\obj\Debug\netcoreapp3.1\COMP1003.csproj.AssemblyReference.cache
+C:\Users\lewis\OneDrive - University of Plymouth\COMP1003 Code\COMP1003\obj\Debug\netcoreapp3.1\COMP1003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewis\OneDrive - University of Plymouth\COMP1003 Code\COMP1003\obj\Debug\netcoreapp3.1\COMP1003.AssemblyInfoInputs.cache
+C:\Users\lewis\OneDrive - University of Plymouth\COMP1003 Code\COMP1003\obj\Debug\netcoreapp3.1\COMP1003.AssemblyInfo.cs
+C:\Users\lewis\OneDrive - University of Plymouth\COMP1003 Code\COMP1003\obj\Debug\netcoreapp3.1\COMP1003.csproj.CoreCompileInputs.cache
+C:\Users\lewis\OneDrive - University of Plymouth\COMP1003 Code\COMP1003\obj\Debug\netcoreapp3.1\COMP1003.dll
+C:\Users\lewis\OneDrive - University of Plymouth\COMP1003 Code\COMP1003\obj\Debug\netcoreapp3.1\COMP1003.pdb
+C:\Users\lewis\OneDrive - University of Plymouth\COMP1003 Code\COMP1003\obj\Debug\netcoreapp3.1\COMP1003.genruntimeconfig.cache
